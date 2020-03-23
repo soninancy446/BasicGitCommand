@@ -1,5 +1,5 @@
 git init  =intialize
-git status =check status
+git status =check statushhhhhh
 git remote add origin "http..."
 git add .
 git commit -m "any message"
