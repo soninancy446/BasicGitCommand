@@ -4,7 +4,7 @@ git remote add origin "http..."
 git add .
 git commit -m "any message"
 git push origin master
-git clone "url"
+git clone "any url"
 git pull "any url"
 
 
