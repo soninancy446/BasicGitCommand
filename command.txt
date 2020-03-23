@@ -1,7 +1,7 @@
 git init  =intialize
-git status =check statushhhhhh
+git status =check status
 git remote add origin "http..."
-git add .
+git add .....
 git commit -m "any message"
 git push origin master
 git clone "any url"
